@@ -3,6 +3,7 @@
     width: 100%;
     margin: 0%;
     padding: 0%;
+    
 }
 
 #header{
@@ -64,6 +65,7 @@
 
 .services:hover {
     background-color: rgb(80, 80, 138);
+    cursor: pointer;
 
 }
 
